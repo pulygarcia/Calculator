@@ -58,6 +58,8 @@ body{
 
 .input.resultado{
     background-color: #e95454;
+    grid-row: 4/6;
+    grid-column: 4/5;
 }
 
 .input:last-of-type{
