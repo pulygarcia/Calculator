@@ -63,7 +63,7 @@ body{
 }
 
 .input:last-of-type{
-    grid-column: 1/5;
+    grid-column: 1/4;
 }
 
 
